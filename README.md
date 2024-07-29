@@ -4,8 +4,8 @@
 
 This repository contains the files for ongoing development of the openPLUG.
 
-- [Schematic print](./PCB%20design/Schematic%20Prints.PDF)
-- Assembly drawings
+- [Schematic prints](./PCB%20design/Schematic%20Prints.PDF)
+- [Assembly drawings](./PCB%20design/Assembly%20Drawings_pic.PDF)
 
 ## 사용 방법
 
